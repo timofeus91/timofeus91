@@ -8,7 +8,7 @@
 - :performing_arts: В бывшем экскурсовод и кадет-спасатель
 - :speech_balloon: Буду рад оценкам моих проектов!
 
-Мои контакты:
+Мои контакты:  
 Linkedin: https://www.linkedin.com/in/timofeus91/   
 Email: timofeus91@gmail.com   
 Telegram: @timofeus91
