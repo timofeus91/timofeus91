@@ -34,7 +34,7 @@ Telegram: @timofeus91
 - :performing_arts: Former tour guide and lifeguard cadet 
 - :speech_balloon: I will be happy if you rate my projects!
 - 
-My contacts:
-  Linkedin: https://www.linkedin.com/in/timofeus91/
-  Email: timofeus91@gmail.com
-  Telegram: @timofeus91
+My contacts:  
+Linkedin: https://www.linkedin.com/in/timofeus91/  
+Email: timofeus91@gmail.com  
+Telegram: @timofeus91
