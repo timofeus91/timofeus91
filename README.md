@@ -9,8 +9,8 @@
 - :speech_balloon: Буду рад оценкам моих проектов!
 
 Мои контакты:
-Linkedin: https://www.linkedin.com/in/timofeus91/
-Email: timofeus91@gmail.com
+Linkedin: https://www.linkedin.com/in/timofeus91/   
+Email: timofeus91@gmail.com   
 Telegram: @timofeus91
 
 ### Technoligies:
