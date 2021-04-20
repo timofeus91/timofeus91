@@ -15,6 +15,14 @@ Telegram: @timofeus91
 
 ### Technoligies:
 
+<img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-512.png" />
+<img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/documents-42/512/document_file_paper_page-32-512.png" />
+<img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png" />
+<img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph-1/2048/5351_-_CSS3-512.png" />
+<img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Git-512.png" />
+<img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png" />
+<img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/software-development-2/1000/program_document_technology_jsx_data_business_computer-512.png" />
+
 
 ### Hi there 👋 
 
