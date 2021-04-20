@@ -35,6 +35,6 @@ Telegram: @timofeus91
 - :speech_balloon: I will be happy if you rate my projects!
 - 
 My contacts:
-Linkedin: https://www.linkedin.com/in/timofeus91/
-Email: timofeus91@gmail.com
-Telegram: @timofeus91
+  Linkedin: https://www.linkedin.com/in/timofeus91/
+  Email: timofeus91@gmail.com
+  Telegram: @timofeus91
