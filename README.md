@@ -2,7 +2,7 @@
 
 ### Меня зовут Тимофей. Я студент Яндекс.Практикума и начинающий фронтенд разработчик. :alien::grinning::alien: 
 - :neckbeard: Получаю удовольствие от учебы
-- :book: Сейчас изучаю серверную разработку на Node.js
+- :book: Сейчас изучаю серверную разработку на Node.js и express.js
 - 🔥 Хочу много кодить
 - :mountain_bicyclist: В поисках работы и дружного коллектива
 - :performing_arts: В бывшем экскурсовод и кадет-спасатель
@@ -26,7 +26,7 @@ Telegram: @timofeus91
 
 ### Hi there 👋 
 
-### My name is Timofey. I am a student at Yandex.Practicum and a junior front-end developer. :alien::grinning::alien: 
+### My name is Timofey. I am a student at Yandex.Practicum and a frontend developer. :alien::grinning::alien: 
 - :neckbeard: I enjoy studying
 - :book: Now I am learning Node.js
 - 🔥 I want to develop a lot
