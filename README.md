@@ -23,7 +23,7 @@ Telegram: @timofeus91
 <img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png" />
 <img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/software-development-2/1000/program_document_technology_jsx_data_business_computer-512.png" />
 <img align="left" height="60" width="60" src="https://yt3.ggpht.com/ytc/AAUvwniPZpOVhjOxCVZ_IlILUNqZGDzkqeME_wjuWuGe=s900-c-k-c0x00ffffff-no-rj" />
-<img height="60" width="60" src="https://miro.medium.com/max/1200/1*5y334csCSm6P4ISP4uYzhg.png" />
+<img height="60" width="60" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
 
 
 ### Hi there 👋 
