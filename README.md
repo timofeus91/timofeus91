@@ -9,7 +9,6 @@
 - :speech_balloon: Буду рад оценкам моих проектов!
 
 Мои контакты:  
-Linkedin: https://www.linkedin.com/in/timofeus91/   
 Email: timofeus91@gmail.com   
 Telegram: @timofeus91
 
@@ -39,6 +38,5 @@ HTML5, CSS3, JavaScript(ES5, ES6), Webpack, React, Node.js, express.js, Git.
 - :speech_balloon: I will be happy if you rate my projects!
 - 
 My contacts:  
-Linkedin: https://www.linkedin.com/in/timofeus91/  
 Email: timofeus91@gmail.com  
 Telegram: @timofeus91
