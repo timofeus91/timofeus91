@@ -2,7 +2,7 @@
 
 ### Меня зовут Тимофей. Я студент Яндекс.Практикума и начинающий фронтенд разработчик. :alien::grinning::alien: 
 - :neckbeard: Получаю удовольствие от учебы
-- :book: Сейчас заканчиваю обучение и делаю диплом
+- :book: Закончил обучение и получил диплом!
 - 🔥 Хочу много кодить
 - :mountain_bicyclist: В поисках работы и дружного коллектива
 - :performing_arts: В бывшем экскурсовод и кадет-спасатель
@@ -31,7 +31,7 @@ HTML5, CSS3, JavaScript(ES5, ES6), Webpack, React, Node.js, express.js, Git.
 
 ### My name is Timofey. I am a student at Yandex.Practicum and a frontend developer. :alien::grinning::alien: 
 - :neckbeard: I enjoy studying
-- :book: Now I am finishing my studies
+- :book: I finished my studies and got a certificate! Now I am learning on my own.
 - 🔥 I want to develop a lot
 - :mountain_bicyclist: Looking for a job and a friendly team
 - :performing_arts: Former tour guide and lifeguard cadet 
