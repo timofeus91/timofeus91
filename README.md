@@ -14,7 +14,7 @@ Telegram: @timofeus91
 
 ### Technoligies:
 
-HTML5, CSS3, JavaScript(ES5, ES6), Webpack, React, Node.js, express.js, Git.
+HTML5, CSS3, JavaScript(ES5, ES6), TypeScript, Webpack, React, Node.js, Express.js, Git.
 
 <img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-512.png" />
 <img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/documents-42/512/document_file_paper_page-32-512.png" />
