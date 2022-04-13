@@ -3,7 +3,7 @@
 ### My name is Timofey. I am a frontend developer. :alien::grinning::alien: 
 - :neckbeard: I enjoy studying
 - :book: Now I'm learning MobX and Redux and actively writing in TypeScript.
-- :mountain_bicyclist: Open to sentence with interesting projects
+- :mountain_bicyclist: I work in a great team and create a cool product
 - :performing_arts: Former tour guide and lifeguard cadet 
 - :speech_balloon: I will be happy if you rate my projects!
 
