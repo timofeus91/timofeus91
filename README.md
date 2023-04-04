@@ -2,9 +2,7 @@
 
 ### My name is Timofey. I am a frontend developer. :alien::grinning::alien: 
 - :neckbeard: I enjoy studying
-- :book: Now I'm learning MobX and Redux and actively writing in TypeScript.
-- :mountain_bicyclist: I work in a great team and create a cool product
-- :performing_arts: Former tour guide and lifeguard cadet 
+- :mountain_bicyclist: I love creating cool products
 - :speech_balloon: I will be happy if you rate my projects!
 
 My contacts:  
@@ -14,7 +12,7 @@ Linkedin: [timofeus91](https://www.linkedin.com/in/timofeus91/)
 
 ### Technoligies:
 
-HTML5, CSS3, JavaScript, React, TypeScript, MobX, Node.js, Express.js, Git. 
+HTML5, CSS3, JavaScript, React, TypeScript, Redux, MobX, Node.js, Express.js, Figma, Git and a little cypress. I study Python in my spare time
 
 <img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-512.png" />
 <img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/documents-42/512/document_file_paper_page-32-512.png" />
