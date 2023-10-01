@@ -12,7 +12,7 @@ Linkedin: [timofeus91](https://www.linkedin.com/in/timofeus91/)
 
 ### Technoligies:
 
-HTML5, CSS3, JavaScript, React, TypeScript, Redux, MobX, Node.js, Express.js, Figma, Git and a little cypress. I study Python in my spare time
+HTML5, CSS3, JavaScript, React, TypeScript, Redux, MobX, Node.js, Express.js, Figma, Git and a little cypress. I study Python and React Native in my spare time
 
 <img align="left" height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-512.png" />
 <img align="left" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/documents-42/512/document_file_paper_page-32-512.png" />
